@@ -1,0 +1,4 @@
+ocid: ocid1.user.oc1..aaaaaaaaxexubxhvt3avilebouy6gln2njxcq6buxfwo5isc66re5qiybowq
+tenancy ocid: ocid1.tenancy.oc1..aaaaaaaak4ilimiogvvvtl5ahagvb4n3oobzphjj7ocqtmuqtwzlv6v6i6rq
+
+指纹 22:79:bc:c4:47:50:e4:ff:ff:fb:35:36:95:94:a6:ec
